@@ -49,5 +49,3 @@ steps:
 
     searchFolder: '$(System.DefaultWorkingDirectory)\target\surefire-reports\old'
 
- 
-publishRunAttachments: true
